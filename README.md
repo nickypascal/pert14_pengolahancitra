@@ -71,7 +71,9 @@ plt.show()
 
 ## OUTPUT
 
+![gambar 1](https://github.com/nickypascal/pert14_pengolahancitra/assets/130324043/3a0410fa-a8d3-4009-bb3e-3ef66a457af6)
 
+![gambar 2](https://github.com/nickypascal/pert14_pengolahancitra/assets/130324043/93ea2907-72ae-4495-bbc2-4ae03d26ce6e)
 
 
 
